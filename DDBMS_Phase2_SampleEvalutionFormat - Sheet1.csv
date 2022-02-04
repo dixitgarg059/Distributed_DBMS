@@ -1,0 +1,23 @@
+Relation,Fragment,FragmentType,Details
+Reserve,Reserve_1,DH,"[reserve_id, reserve_id, Room_1]"
+Reserve,Reserve_2,DH,"[reserve_id, reserve_id, Room_2]"
+Reserve,Reserve_3,DH,"[reserve_id, reserve_id, Room_3]"
+Guest,Guest_1,V,"[guest_id , reserve_id, name] "
+Guest,Guest_2,V,"[guest_id , name , address , email , phone , city] "
+Guest,Guest_3,V,"[guest_id , reserve_id, payment] "
+Room,Room_1,H,[city=Delhi AND price>1000]
+Room,Room_2,H,[city=Mumbai AND price>1000]
+Room,Room_3,H,[city=Goa OR price<1000]
+,,,
+,,,
+,,,
+Fragment,Site,,
+Reserve_1,1,,
+Reserve_2,2,,
+Reserve_3,3,,
+Guest_1,1,,
+Guest_2,2,,
+Guest_3,3,,
+Room_1,1,,
+Room_2,2,,
+Room_3,3,,
