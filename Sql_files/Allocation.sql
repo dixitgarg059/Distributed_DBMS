@@ -1,0 +1,53 @@
+INSERT INTO Allocation VALUES (1, 1);
+INSERT INTO Allocation VALUES (1, 2);
+
+INSERT INTO Allocation VALUES (2, 2);
+INSERT INTO Allocation VALUES (2, 3);
+
+INSERT INTO Allocation VALUES (3, 3);
+INSERT INTO Allocation VALUES (3, 1);
+
+INSERT INTO Allocation VALUES (4, 1);
+INSERT INTO Allocation VALUES (4, 2);
+
+INSERT INTO Allocation VALUES (5, 2);
+INSERT INTO Allocation VALUES (5, 3);
+
+INSERT INTO Allocation VALUES (6, 3);
+INSERT INTO Allocation VALUES (6, 1);
+
+INSERT INTO Allocation VALUES (7, 1);
+INSERT INTO Allocation VALUES (7, 2);
+
+INSERT INTO Allocation VALUES (8, 2);
+INSERT INTO Allocation VALUES (8, 3);
+
+INSERT INTO Allocation VALUES (9, 3);
+INSERT INTO Allocation VALUES (9, 1);
+
+INSERT INTO Allocation VALUES (10, 1);
+INSERT INTO Allocation VALUES (10, 2);
+
+INSERT INTO Allocation VALUES (11, 2);
+INSERT INTO Allocation VALUES (11, 3);
+
+INSERT INTO Allocation VALUES (12, 3);
+INSERT INTO Allocation VALUES (12, 1);
+
+INSERT INTO Allocation VALUES (13, 1);
+INSERT INTO Allocation VALUES (13, 2);
+
+INSERT INTO Allocation VALUES (14, 2);
+INSERT INTO Allocation VALUES (14, 3);
+
+INSERT INTO Allocation VALUES (15, 3);
+INSERT INTO Allocation VALUES (15, 1);
+
+INSERT INTO Allocation VALUES (16, 1);
+INSERT INTO Allocation VALUES (16, 2);
+
+INSERT INTO Allocation VALUES (17, 2);
+INSERT INTO Allocation VALUES (17, 3);
+
+INSERT INTO Allocation VALUES (18, 3);
+INSERT INTO Allocation VALUES (18, 1);
